@@ -551,12 +551,7 @@ body {
     }
 
     .hero-image {
-        order: -1;
-    }
-
-    .image-placeholder svg {
-        width: 150px;
-        height: 150px;
+        display: none;
     }
 
     .about {
